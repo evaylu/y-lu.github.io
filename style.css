@@ -3,10 +3,11 @@ body{
 }
 
 h1{
-	font-weight: 400;
+    font-size: 20px;
+    font-weight: 200;
 }
 p{
 	color: #4B4B4B;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 200;
 }
